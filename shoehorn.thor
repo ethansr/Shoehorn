@@ -22,8 +22,6 @@ class Shoehorn < Thor
 
     cp 'index.html', 'output/index.html'
 
-    cp 'README.markdown', 'output/README.markdown'
-
   end
 end
 
